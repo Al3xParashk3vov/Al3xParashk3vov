@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alexander Parashkevov</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
-- 🌱 I’m currently learning **Django**
+- 💻 I’m currently learning **Django**
 
 - 📫 How to reach me **alex.para.work@gmail.com**
 
-- ⚡ Fun fact **I have trained KUDO**
+- ⚡ Fun fact **I have trained KUDO** 🥋
 
-- 👨‍🎓 Student at **SU Nikolai Katranov**
+- 📚 Student at **SU Nikolai Katranov**
 
 - 🌍 Born in **Svishtov**, *Veliko Tarnovo*
 
