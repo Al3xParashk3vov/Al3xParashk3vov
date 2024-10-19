@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I have trained KUDO**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
