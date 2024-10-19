@@ -7,6 +7,10 @@
 
 - ⚡ Fun fact **I have trained KUDO**
 
+- 👨‍🎓 Student at **SU Nikolai Katranov**
+
+- 🌍 Born in **Svishtov**, *Veliko Tarnovo*
+
 
 <p align="left">
 </p>
