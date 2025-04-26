@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Parashkevov</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
-- 💻 I’m currently learning **Django**
+- 💻 I’m currently learning **Django** and **EJS/Express**
 
 - 📫 How to reach me **alex.para.work@gmail.com**
 
